@@ -1,0 +1,16 @@
+{
+    "name": "OtaHelper",
+    "version": "1.0.0",
+    "author": "N4rcissist",
+    "maintainer": "lhrDev",
+    "sentence": "Library for handling OTA (Over-The-Air) connections in ESP32 and ESP8266.",
+    "paragraph": "OtaHelper is a library that simplifies the process of managing Over-The-Air connections on ESP32 and ESP8266 devices. It provides convenient functions for OTA updates and ensures seamless firmware updates wirelessly.",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/N4rcissist/OtaHelper"
+    },
+    "category": "Communication", 
+    "framework": "arduino",
+    "architectures": ["esp32", "esp8266"]
+  }
+  

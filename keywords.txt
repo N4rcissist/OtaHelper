@@ -1,0 +1,18 @@
+# Keywords for ConnectOta
+
+# Standard C++ Keywords
+keywords		KEYWORD1
+class			KEYWORD2
+public			KEYWORD2
+private			KEYWORD2
+void			KEYWORD2
+const			KEYWORD2
+unsigned		KEYWORD2
+
+# Specific Keywords from your Library
+ConnectOta		KEYWORD3
+start			KEYWORD3
+handle			KEYWORD3
+connectWifi		KEYWORD3
+setupOTA		KEYWORD3
+errorMessages	KEYWORD3
